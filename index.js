@@ -19,7 +19,7 @@ Create a navbar in JSX:
 
 const navpage = (
     <nav>
-    <h1>My website</h1>
+    <h1>Allano website</h1>
     <ul>
         <li>Pricing</li>
         <li>About</li>
